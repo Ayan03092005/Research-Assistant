@@ -1,0 +1,14 @@
+fastapi 
+uvicorn 
+sqlalchemy 
+psycopg[binary]
+passlib[bcrypt] 
+pyjwt 
+httpx 
+tenacity 
+pydantic-settings 
+python-multipart 
+jinja2
+pydantic[email]
+openai
+google.generativeai

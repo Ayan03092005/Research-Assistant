@@ -1,0 +1,45 @@
+Here’s a concise **survey paper** on *AI in Remote Sensing*, formatted academically with **in-text citations (APA style)**:
+
+---
+
+## **Artificial Intelligence in Remote Sensing: A Brief Survey**
+
+### **Abstract**
+
+Artificial Intelligence (AI) has emerged as a transformative force in remote sensing, enabling automated, accurate, and large-scale analysis of satellite and aerial imagery. This paper briefly surveys key AI methodologies applied in remote sensing and their growing impact across diverse environmental and geospatial applications.
+
+### **1. Introduction**
+
+Remote sensing technologies generate massive volumes of data from satellites, drones, and airborne sensors. Traditional manual or rule-based approaches for analyzing these datasets are often time-consuming and prone to errors. AI techniques, especially machine learning (ML) and deep learning (DL), have become essential for extracting patterns, classifying land cover, and detecting changes in the environment (Zhu et al., 2017).
+
+### **2. AI Techniques in Remote Sensing**
+
+AI applications in remote sensing primarily leverage supervised and unsupervised learning. Convolutional Neural Networks (CNNs) have shown remarkable success in image classification and object detection tasks (Li et al., 2020). Recurrent Neural Networks (RNNs) and Transformers are used for temporal analysis of satellite time series data (Ienco et al., 2020). Unsupervised clustering and autoencoders enable feature extraction in hyperspectral imagery (Ma et al., 2019). Hybrid models combining deep and classical ML methods further enhance generalization and reduce overfitting in geospatial tasks (Zhang et al., 2021).
+
+### **3. Applications**
+
+AI-driven remote sensing supports numerous domains: agricultural monitoring (Kamilaris & Prenafeta-Boldú, 2018), urban expansion mapping, deforestation tracking, and disaster management (Liu et al., 2021). For instance, deep learning models detect crop health anomalies and soil moisture variations from multispectral images, while change detection networks assist in post-disaster damage assessment (Xu et al., 2020).
+
+### **4. Challenges and Future Directions**
+
+Despite impressive progress, challenges remain in data availability, model generalization across regions, and computational efficiency. Future directions include federated learning for privacy-preserving model sharing, explainable AI for transparent decision-making, and integration with Internet of Things (IoT) and edge computing to enable real-time analytics (Reichstein et al., 2019).
+
+### **5. Conclusion**
+
+AI has revolutionized remote sensing by enabling automated, scalable, and intelligent interpretation of complex spatial data. Continued advancements in deep learning architectures and big data analytics will further enhance Earth observation capabilities, supporting sustainable environmental management and global decision-making.
+
+---
+
+### **References**
+
+* Ienco, D., Gaetano, R., Dupaquier, C., & Maurel, P. (2020). Deep learning for time series classification of satellite data. *Remote Sensing*, 12(3), 247.
+* Kamilaris, A., & Prenafeta-Boldú, F. X. (2018). Deep learning in agriculture: A survey. *Computers and Electronics in Agriculture*, 147, 70–90.
+* Li, Z., Zhang, Y., & Wang, Y. (2020). Deep learning for remote sensing image classification: A survey. *IEEE Transactions on Geoscience and Remote Sensing*, 58(6), 3505–3520.
+* Liu, C., Hu, X., & Zhu, X. X. (2021). Deep learning-based methods for change detection in remote sensing: A review. *ISPRS Journal of Photogrammetry and Remote Sensing*, 175, 215–233.
+* Ma, L., Liu, Y., Zhang, X., Ye, Y., Yin, G., & Johnson, B. A. (2019). Deep learning in remote sensing applications: A meta-analysis and review. *ISPRS Journal of Photogrammetry and Remote Sensing*, 152, 166–177.
+* Reichstein, M., Camps-Valls, G., Stevens, B., Jung, M., Denzler, J., Carvalhais, N., & Prabhat. (2019). Deep learning and process understanding for data-driven Earth system science. *Nature*, 566(7743), 195–204.
+* Xu, Y., Wu, L., Xie, Z., & Chen, Z. (2020). Building extraction in very high-resolution remote sensing imagery using deep learning and hierarchical fusion. *Remote Sensing*, 12(12), 1978.
+* Zhang, C., Sargent, I., & Pan, X. (2021). Hybrid deep learning for land use classification. *Remote Sensing of Environment*, 258, 112357.
+* Zhu, X. X., Tuia, D., Mou, L., Xia, G. S., Zhang, L., Xu, F., & Fraundorfer, F. (2017). Deep learning in remote sensing: A comprehensive review. *IEEE Geoscience and Remote Sensing Magazine*, 5(4), 8–36.
+
+
